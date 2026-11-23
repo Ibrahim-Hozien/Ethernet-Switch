@@ -1,0 +1,20 @@
+# KiCad lock and temporary files
+*.lck
+~*.kicad_*
+*-backups/
+*.bak
+*.bki
+*.drl
+*.gbr
+*.gbo
+*.gbp
+*.gbs
+*.gto
+*.gtp
+*.gts
+*.gm1
+*.rpt
+*.pos
+*.net
+*.tmp
+fp-info-cache
