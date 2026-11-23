@@ -14751,10 +14751,10 @@
 			(uuid "e54ce4fb-8650-4993-8c98-94c1eea6310f")
 		)
 		(pin "3"
-			(uuid "b49376e9-1705-4abe-bf7f-3862ae83559b")
+			(uuid "b49376e9-1705-4abe-bf7f-3862ae83559c")
 		)
 		(pin "4"
-			(uuid "d67b7733-1cc7-4e54-ac69-ff06694b82ba")
+			(uuid "d67b7733-1cc7-4e54-ac69-ff06694b82bb")
 		)
 		(pin "2"
 			(uuid "fdc82c33-5f8f-45a0-9c96-99ae2df81098")
